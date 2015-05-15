@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 To have Isis compliment a chat user, type ```!compliment (username)``` in chat.
+
+## Links
+
+* [isis-plugin-compliment on RubyGems](https://rubygems.org/gems/isis-plugin-compliment)
